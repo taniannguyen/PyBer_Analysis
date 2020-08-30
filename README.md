@@ -20,4 +20,4 @@ From this muiltiple line graph you can see that in urban areas there are higher 
 
 ## Summary
 
-After completing this analysis there are several recommendations that can be made from the d
+After completing this analysis there are several recommendations that can be made to address the disparities among the city types. The first reccomendation is to add incentive for riders in the rural and suburban areas since the average fare per ride is $34.62 and $30.97 respectively which is high. The incentive is for every fifth ride they get a coupon of 50% off of their next three rides, this will help will increasing more riders and encourage more drivers to join PyBer.  The second reccomendation is to increase the average fare per driver for urban areas so this will give them a since of security of making income and more drivers will join. The last reccomendation is give out promotions in the less busier months for example January and February. The promotions can consist of discounts on rides for all city types, this will increase more riders and drivers for those slower months.

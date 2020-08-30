@@ -7,7 +7,7 @@ The purpose of this analysis is to perform a exploratory analysis on data in a l
 
 ### Pyber Summary 
 
-!(Pyber Summary)[analyis/pyber_summary_df.png]
+!(Pyber Summary)[analysis/pyber_summary_df.png]
 
 From this table we can see urban areas have the highest total in rides, total in drivers, and total in fares. On the other hand urban areas have a cheaper average fare per ride and cheaper average fare per driver. Then comes suburban areas which is in the middle; they have less total in rides, total in drivers, and total in fares. Like urban areas, their average fare per ride and average fare per driver is less, but still quite high due to being in suburban areas. Lastly, in rural areas their total rides, total drivers, and total fares are way less then urban and suburban areas. But their averag fare per ride and average fare per driver is the highest compared to urban and suburban areas.
 

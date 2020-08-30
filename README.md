@@ -7,11 +7,17 @@ The purpose of this analysis is to perform a exploratory analysis on data in a l
 
 ### Pyber Summary 
 
-!(Pyber Summary)[analysis/pyber_summary_df.png]
+![Pyber Summary](analysis/pyber_summary_df.png)
 
 From this table we can see urban areas have the highest total in rides, total in drivers, and total in fares. On the other hand urban areas have a cheaper average fare per ride and cheaper average fare per driver. Then comes suburban areas which is in the middle; they have less total in rides, total in drivers, and total in fares. Like urban areas, their average fare per ride and average fare per driver is less, but still quite high due to being in suburban areas. Lastly, in rural areas their total rides, total drivers, and total fares are way less then urban and suburban areas. But their averag fare per ride and average fare per driver is the highest compared to urban and suburban areas.
 
+### PyBer Fare Symmary 
 
+![Pyber Fare Summary](analysis/PyBer_fare_summary.png)
+
+From this muiltiple line graph you can see that in urban areas there are higher fare total weekly, then suburban areas come in less, and lastly rural areas is the least in fare total weekly. Also based from this line graph you cacn see that there is a trend in months, disregarding the city type they have a similar trend in spikes and dips in certain weeks. For January and February the rides were lower, but approaching March it starts to pick up and goes back down then picks back up in April; this is for all city types. Keep in mind the cost and number of riders do vary as we saw in the pyber summary chart above.
 
 
 ## Summary
+
+After completing this analysis there are several recommendations that can be made from the d
